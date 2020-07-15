@@ -30,7 +30,7 @@ public class Test {
 			}
 			if(cmd.equals("read")) {
 				if(store == null) {
-					System.out.println("데이터가 없습니다.12");
+					System.out.println("데이터가 없습니다.");
 				} else {
 					System.out.println(store);
 				}
