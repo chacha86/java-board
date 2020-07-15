@@ -26,7 +26,7 @@ public class Test {
 			
 			if(cmd.equals("add")) {
 				store = sc.nextLine();
-				System.out.println("저장이 완료되었습니다.123123");
+				System.out.println("저장이 완료되었습니다.");
 			}
 			if(cmd.equals("read")) {
 				if(store == null) {
